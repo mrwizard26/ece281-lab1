@@ -10,13 +10,13 @@
       </db_ref>
    </db_ref_list>
    <zoom_setting>
-      <ZoomStartTime time="3333333fs"></ZoomStartTime>
-      <ZoomEndTime time="143333334fs"></ZoomEndTime>
-      <Cursor1Time time="120000000fs"></Cursor1Time>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="250405066fs"></ZoomEndTime>
+      <Cursor1Time time="40000000fs"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
       <NameColumnWidth column_width="175"></NameColumnWidth>
-      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+      <ValueColumnWidth column_width="138"></ValueColumnWidth>
    </column_width_setting>
    <WVObjectSize size="2" />
    <wvobject fp_name="/thirtyOneDayMonth_tb/w_sw" type="array">
