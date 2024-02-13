@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Feb 11 15:20:35 2024
+# Process ID: 19796
+# Current directory: C:/Users/eunju/ECE/ece281-lab1-main
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5456 C:\Users\eunju\ECE\ece281-lab1-main\thirtyoneday.xpr
+# Log file: C:/Users/eunju/ECE/ece281-lab1-main/vivado.log
+# Journal file: C:/Users/eunju/ECE/ece281-lab1-main\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/eunju/ECE/ece281-lab1-main/thirtyoneday.xpr
+update_compile_order -fileset sources_1
